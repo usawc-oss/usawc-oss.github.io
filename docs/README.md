@@ -5,7 +5,7 @@
 
 
 
-## [Test Game](intel-clue/index.html)
+## [Test Game](IntelClue/index.html)
 
 
 
